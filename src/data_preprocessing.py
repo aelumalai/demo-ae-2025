@@ -38,7 +38,7 @@ def handle_missing_values(df, strategy='mean'):
     
     Args:
         df (pd.DataFrame): Input dataframe
-        strategy (str): Strategy for handling missing values ('mean', 'median', 'mode', 'drop')
+        strategy (str): Strategy for handling missing values ('mean', 'median', 'drop')
         
     Returns:
         pd.DataFrame: Dataframe with handled missing values

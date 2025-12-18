@@ -7,7 +7,6 @@ seaborn>=0.11.0
 
 # Deep Learning
 tensorflow>=2.10.0
-keras>=2.10.0
 
 # Jupyter
 jupyter>=1.0.0
